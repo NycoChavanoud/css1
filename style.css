@@ -1,0 +1,113 @@
+nav{
+    background-color: rgb(34, 33, 33) ;
+    height: 11vh ;
+    
+
+}
+
+ul{
+    display: block;
+}
+
+ul li {
+    list-style: none ;
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+
+
+}
+
+#fellows {
+    background-color: gainsboro;
+    border-style: solid;
+    border-color: rgb(82, 80, 80);
+    border-width: 2px;
+    padding: 3vh ;
+    font-size: x-small ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color : rgb(175, 171, 171) ;
+    
+
+
+}
+
+#find {
+    font-size: large ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color : rgb(175, 171, 171) ;
+    height: 20px;
+    background-color: rgb(34, 33, 33);
+    
+}
+
+#contact {
+    font-size: x-small ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color : rgb(175, 171, 171) ;
+    
+}
+
+.carousel {
+    background-color: gainsboro;
+    display: block ;
+    height: 40vh;
+}
+
+#h2premier {
+    font-size: large ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color : rgb(109, 104, 104) ;
+    text-align: center;
+    margin: 10vh ;
+
+}
+
+
+
+#cube1 {
+    background-color: gainsboro;
+    text-align: left;
+    height: 90vh;
+    width: 33% ;
+    display: inline-block ;
+
+
+}
+#cube2 {
+    background-color: gainsboro;
+    text-align: center ;
+    height: 90vh;
+    width: 33% ;
+    display: inline-block ;
+}
+#cube3 {
+    background-color: gainsboro;
+    text-align: right ;
+    height: 90vh;
+    width: 33% ;
+    display: inline-block ;
+}
+
+#h2second {
+    font-size: large ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    color : rgb(109, 104, 104) ;
+    text-align: left;
+    margin: 10vh ;
+    border-top: 1px solid rgb(109, 104, 104);
+}
+
+#formulaire {
+    
+    text-align: center;
+
+}
+
+input, textarea {
+    width: 900px;
+}
+
+textarea {
+    height: 100px;
+}
